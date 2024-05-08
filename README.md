@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @vijaycham
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Vijay
+- 👀 FullStack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vijaysivakadatcham@gmail.com
 
