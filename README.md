@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vijay
-- 👀 FullStack developer
+- 👀 becoming FullStack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vijaysivakadatcham@gmail.com
 
