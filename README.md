@@ -8,7 +8,7 @@
   <a href="mailto:vijaysivakadatcham@gmail.com">
     <img src="https://img.shields.io/badge/Email-vijaysivakadatcham%40gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/vijaycham/)">
     <img src="https://img.shields.io/badge/LinkedIn-Vijay-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/vijaycham">
@@ -74,7 +74,7 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME/](https://leetcode.com/u/vijaycham/)">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
   </a>
 </p>
