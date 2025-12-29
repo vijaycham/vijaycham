@@ -71,15 +71,25 @@
 
 ---
 
+## 🧠 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaycham&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaycham&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaycham&show_icons=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=vijaycham&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaycham&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaycham&layout=compact&hide_border=true" />
 </p>
 
 ---
